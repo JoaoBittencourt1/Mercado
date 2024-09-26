@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//teste de alteração para o github
+
 #define MAXIMO 100 // Define o número máximo de produtos e itens no carrinho
 
 // Estrutura para armazenar informações dos produtos
